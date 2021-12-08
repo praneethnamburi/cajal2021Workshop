@@ -16,6 +16,7 @@
 
 %% Time vs frequency domain
 % Extract the flicker from the mouse OFT video and determine its frequency
+% Then, filter this signal
 
 %% Nonlinear time domain filtering
 % Extract the background image of the OFT (without the mouse)

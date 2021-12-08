@@ -1,4 +1,4 @@
-fdir = 'C:\Users\Praneeth\Desktop\Cajal2021\workshop\';
+fdir = [pwd '\'];
 fname = 'mouse_OFT.mp4';
 v = VideoReader([fdir fname]);
 
